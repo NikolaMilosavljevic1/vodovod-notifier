@@ -51,7 +51,6 @@ print(msg_list)
 
 
 mail = input("Unesite mejl na koji zelite da vam stizu notifikacije-->")
-#mail = "mvivana594@gmail.com"
 
 def send_mail(message_text):
     smtp_server = "smtp.gmail.com"
